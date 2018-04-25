@@ -1,5 +1,11 @@
 {
   "name": {
     "required": true
-  }
+  },
+  "google_location": {
+		"type": "location",
+		"multiple": false
+		"required": true,
+		"localizable": true
+	}
 }
